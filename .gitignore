@@ -1,0 +1,17 @@
+# Solo se versionan los archivos importantes del proyecto.
+# Todo lo demás (documentos originales de la clienta, pruebas, configuración local) se ignora.
+/*
+
+!/.gitignore
+!/README.md
+
+# Página web
+!/web/
+
+# Guía
+!/GUIA_GOOGLE_SHEETS.md
+
+# Plantilla de la hoja de Google (solo la versión vigente)
+!/plantilla/
+/plantilla/*
+!/plantilla/Brigadas JFK - Contenido web (para copiar).xlsx
